@@ -662,7 +662,7 @@ Change widths as necessary
  .g1,.g2,.g3 {display:inline; float: left}
 
  /* 2 COLUMN GRID */
- .g1 {width:48.0%}
+ .g1 {width:45.0%}
  .g2 {width:48.0%}
  .g3 {width:98.0%}
 }
@@ -738,9 +738,9 @@ Change widths as necessary
   padding-top: 20px;
 }
   /* 3 COLUMN GRID */
-  .g1 {width:31.333%}
-  .g2 {width:64.667%;}
-  .g3 {width:98.0%}
+  .g1 {width:28.2%}
+  .g2 {width:65.8%;}
+  .g3 {width:98%}
 }
 
 @media only screen and (min-width: 1280px) { 
